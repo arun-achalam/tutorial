@@ -4,4 +4,6 @@ for i in range(2,a+1):
         if i%j==0:
             break
     else:
-        print(i)
+        print(i,end=" ")
+print("prime numbers")
+        
